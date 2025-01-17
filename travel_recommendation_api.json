@@ -1,0 +1,86 @@
+{
+  "countries": [
+    {
+      "id": 1,
+      "name": "Australia",
+      "cities": [
+        {
+          "name": "Sydney, Australia",
+          "imageUrl": "img/sydney.jpg",
+          "description": "A vibrant city known for its iconic landmarks like the Sydney Opera House and Sydney Harbour Bridge.",
+          "timezone": "Australia/Sydney"
+        },
+        {
+          "name": "Melbourne, Australia",
+          "imageUrl": "img/melbourne.jpg",
+          "description": "A cultural hub famous for its art, food, and diverse neighborhoods.",
+          "timezone": "Australia/Melbourne"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Japan",
+      "cities": [
+        {
+          "name": "Tokyo, Japan",
+          "imageUrl": "img/tokyo.jpg",
+          "description": "A bustling metropolis blending tradition and modernity, famous for its cherry blossoms and rich culture.",
+          "timezone": "Asia/Tokyo"
+        },
+        {
+          "name": "Kyoto, Japan",
+          "imageUrl": "img/kyoto.jpg",
+          "description": "Known for its historic temples, gardens, and traditional tea houses.",
+          "timezone": "Asia/Tokyo"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Brazil",
+      "cities": [
+        {
+          "name": "Rio de Janeiro, Brazil",
+          "imageUrl": "img/rio.jpg",
+          "description": "A lively city known for its stunning beaches, vibrant carnival celebrations, and iconic landmarks.",
+          "timezone": "America/Sao_Paulo"
+        },
+        {
+          "name": "São Paulo, Brazil",
+          "imageUrl": "img/sao_paulo.jpg",
+          "description": "The financial hub with diverse culture, arts, and a vibrant nightlife.",
+          "timezone": "America/Sao_Paulo"
+        }
+      ]
+    }
+  ],
+  "beaches": [
+    {
+      "name": "Bondi Beach",
+      "imageUrl": "img/bondi.jpg",
+      "description": "Famous Sydney beach known for its golden sand and perfect waves.",
+      "timezone": "Australia/Sydney"
+    },
+    {
+      "name": "Copacabana Beach",
+      "imageUrl": "img/copa.jpg",
+      "description": "Rio's most famous beach, stretching along the city with vibrant atmosphere.",
+      "timezone": "America/Sao_Paulo"
+    }
+  ],
+  "temples": [
+    {
+      "name": "Senso-ji Temple",
+      "imageUrl": "img/senso.jpg",
+      "description": "Tokyo's oldest Buddhist temple, known for its massive red lantern.",
+      "timezone": "Asia/Tokyo"
+    },
+    {
+      "name": "Kinkaku-ji",
+      "imageUrl": "img/kink.jpg",
+      "description": "The Golden Pavilion, a Zen temple covered in gold leaf.",
+      "timezone": "Asia/Tokyo"
+    }
+  ]
+}
